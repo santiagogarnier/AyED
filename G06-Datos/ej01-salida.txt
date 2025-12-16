@@ -1,0 +1,26 @@
+Listado de los seleccionados en orden:
+Elaia   (legajo: 892) : 9.6
+Ana     (legajo: 614) : 9.1
+Jose    (legajo: 578) : 8.9
+Carlos  (legajo: 733) : 8.5
+Juan    (legajo: 927) : 8.4
+Maria   (legajo: 721) : 8.4
+Ramon   (legajo: 418) : 8.4
+Unai    (legajo: 325) : 8.1
+Pedro   (legajo: 847) : 7.2
+
+============================
+Listado de bajas (sin ordenar):
+Pedro   (legajo: 847) : 7.2
+Ramon   (legajo: 418) : 8.4
+Unai    (legajo: 325) : 8.1
+
+============================
+Listado definitivo sin las bajas:
+Elaia   (legajo: 892) : 9.6
+Ana     (legajo: 614) : 9.1
+Jose    (legajo: 578) : 8.9
+Carlos  (legajo: 733) : 8.5
+Juan    (legajo: 927) : 8.4
+Maria   (legajo: 721) : 8.4
+

@@ -1,0 +1,5 @@
+Es una variable cuyo tipo de dato le provee la capacidad de contener una direccion de memoria
+
+int a = 10; "Aca declaro la variable a y le asigno 10 como valor"
+int* p = &a; "declaro la varieble p y le asigno la direccion de a"
+cout << *p << endl; " se muestra el contenido de p (que es a)

@@ -1,0 +1,86 @@
+Ayacucho        Productos diferentes: 6   Total de unidades: 110
+Producto          Monto Total  Ventas   BV      EF      TC      TD
+Bicicleta           5698.54     1       0       0       0       1
+Calzas de ciclismo  7635.96     2       0       0       1       1
+Palos de golf       9449.37     3       0       1       0       2
+Pelota de basquet   12625.9     5       1       2       2       0
+Raqueta de tenis    15409       3       0       2       0       1
+Zapatillas          2335.46     1       0       1       0       0
+
+Balcarce        Productos diferentes: 6   Total de unidades: 103
+Producto          Monto Total  Ventas   BV      EF      TC      TD
+Bicicleta           4085.76     1       0       1       0       0
+Calzas de ciclismo  10199.4     2       0       1       1       0
+Palos de golf       4863.12     3       1       1       0       1
+Pelota de basquet   21543.3     4       3       0       1       0
+Raqueta de tenis    24493.8     4       1       2       1       0
+Zapatillas          2946.05     2       0       1       0       1
+
+Chivilcoy       Productos diferentes: 7   Total de unidades: 102
+Producto          Monto Total  Ventas   BV      EF      TC      TD
+Bicicleta           8854.24     3       1       1       1       0
+Calzas de ciclismo  10870.5     3       0       2       0       1
+Palos de golf       16077.4     3       0       1       1       1
+Pelota de basquet   2456.69     1       0       0       1       0
+Pelota de rugby     2104.12     2       0       0       0       2
+Raqueta de tenis    8643.5      2       1       0       1       0
+Zapatillas          3330.34     1       0       1       0       0
+
+Mercedes        Productos diferentes: 6   Total de unidades: 138
+Producto          Monto Total  Ventas   BV      EF      TC      TD
+Bicicleta           2536.78     1       0       0       0       1
+Calzas de ciclismo  1935.23     2       0       1       1       0
+Pelota de basquet   16963.7     4       1       0       1       2
+Pelota de rugby     8790.97     2       1       0       1       0
+Raqueta de tenis    21491.8     4       0       3       0       1
+Zapatillas          24234.6     4       0       1       1       2
+
+Necochea        Productos diferentes: 6   Total de unidades: 134
+Producto          Monto Total  Ventas   BV      EF      TC      TD
+Bicicleta           27551.9     7       1       2       3       1
+Calzas de ciclismo  5668.73     2       1       1       0       0
+Palos de golf       9076.52     3       0       1       0       2
+Pelota de rugby     6577.7      1       1       0       0       0
+Raqueta de tenis    1170.98     1       0       1       0       0
+Zapatillas          14072       2       0       0       1       1
+
+Saladillo       Productos diferentes: 7   Total de unidades: 96
+Producto          Monto Total  Ventas   BV      EF      TC      TD
+Bicicleta           6574.37     3       1       0       0       2
+Calzas de ciclismo  14234.2     2       1       0       1       0
+Palos de golf       11063.4     3       0       1       1       1
+Pelota de basquet   4429.92     1       0       1       0       0
+Pelota de rugby     7635.58     2       0       1       0       1
+Raqueta de tenis    11726.4     3       1       1       0       1
+Zapatillas          5963.83     1       0       1       0       0
+
+Suipacha        Productos diferentes: 4   Total de unidades: 40
+Producto          Monto Total  Ventas   BV      EF      TC      TD
+Palos de golf       2975.56     1       0       0       0       1
+Pelota de basquet   7803.91     2       1       1       0       0
+Raqueta de tenis    6027.79     1       1       0       0       0
+Zapatillas          12569.2     2       1       0       0       1
+
+Cantidad de ventas por medio de pago
+Billetera virtual: 19
+Efectivo: 33
+Tarjeta de crédito: 20
+Tarjeta de débito: 28
+
+Ingrese el producto: Zapatillas 
+Ingrese el código del medio de pago: BV
+Cantidad de pagos mediante BV del producto Zapatillas: 1
+
+Ingrese el producto: Zapatillas 
+Ingrese el código del medio de pago: TD
+Cantidad de pagos mediante TD del producto Zapatillas: 5
+
+Ingrese el producto: Raqueta de tenis
+Ingrese el código del medio de pago: EF
+Cantidad de pagos mediante EF del producto Raqueta de tenis: 9
+
+Ingrese el producto: Bicicleta 
+Ingrese el código del medio de pago: TC
+Cantidad de pagos mediante TC del producto Bicicleta: 4
+
+

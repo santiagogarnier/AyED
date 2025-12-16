@@ -1,0 +1,30 @@
+Ana - mes: 2 - cant: 52
+Ana - mes: 2 - cant: 272
+Ana - mes: 6 - cant: 446
+Juan - mes: 3 - cant: 377
+Juan - mes: 3 - cant: 218
+Juan - mes: 3 - cant: 284
+Juan - mes: 5 - cant: 75
+Juan - mes: 6 - cant: 184
+Maria - mes: 5 - cant: 243
+Maria - mes: 7 - cant: 474
+Maria - mes: 7 - cant: 95
+Maria - mes: 9 - cant: 260
+Pedro - mes: 6 - cant: 37
+Pedro - mes: 6 - cant: 69
+Pedro - mes: 12 - cant: 164
+Pedro - mes: 12 - cant: 255
+Pedro - mes: 12 - cant: 155
+
+============================
+Listado de deudas consolidado:
+Ana - mes: 2 - cant: 324
+Ana - mes: 6 - cant: 446
+Juan - mes: 3 - cant: 879
+Juan - mes: 5 - cant: 75
+Juan - mes: 6 - cant: 184
+Maria - mes: 5 - cant: 243
+Maria - mes: 7 - cant: 569
+Maria - mes: 9 - cant: 260
+Pedro - mes: 6 - cant: 106
+Pedro - mes: 12 - cant: 574

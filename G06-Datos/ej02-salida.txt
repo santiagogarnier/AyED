@@ -1,0 +1,38 @@
+Listado ordenado por id:
+id: 1 - Ana - Hacha - cant 501
+id: 3 - Maria - Martillo - cant 35
+id: 7 - Maria - Hacha - cant 238
+id: 9 - Juan - Martillo - cant 266
+id: 11 - Pedro - Martillo - cant 330
+id: 15 - Juan - Hacha - cant 69
+id: 26 - Pedro - Pinza - cant 276
+id: 29 - Juan - Martillo - cant 109
+id: 31 - Ana - Hacha - cant 109
+id: 33 - Maria - Martillo - cant 460
+id: 38 - Ana - Martillo - cant 309
+id: 41 - Pedro - Hacha - cant 507
+id: 44 - Maria - Pinza - cant 55
+id: 46 - Ana - Pinza - cant 117
+id: 49 - Pedro - Martillo - cant 28
+id: 52 - Ana - Martillo - cant 158
+id: 60 - Maria - Martillo - cant 104
+
+============================
+Listado ordenado por cliente-producto:
+id: 31 - Ana - Hacha - cant 109
+id: 1 - Ana - Hacha - cant 501
+id: 38 - Ana - Martillo - cant 309
+id: 52 - Ana - Martillo - cant 158
+id: 46 - Ana - Pinza - cant 117
+id: 15 - Juan - Hacha - cant 69
+id: 9 - Juan - Martillo - cant 266
+id: 29 - Juan - Martillo - cant 109
+id: 7 - Maria - Hacha - cant 238
+id: 60 - Maria - Martillo - cant 104
+id: 33 - Maria - Martillo - cant 460
+id: 3 - Maria - Martillo - cant 35
+id: 44 - Maria - Pinza - cant 55
+id: 41 - Pedro - Hacha - cant 507
+id: 49 - Pedro - Martillo - cant 28
+id: 11 - Pedro - Martillo - cant 330
+id: 26 - Pedro - Pinza - cant 276

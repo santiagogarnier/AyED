@@ -1,0 +1,73 @@
+Listado de Productos
+
+ProdA	11	3878.21
+
+Canal	Unidades
+CanalY	42
+CanalY	35
+CanalX	49
+CanalZ	25
+CanalX	2
+CanalZ	43
+CanalZ	12
+CanalZ	40
+CanalX	6
+CanalZ	10
+CanalX	13
+
+ProdD	10	2464.08
+
+
+============================
+Listado de Canales
+
+CanalX	53.73
+CanalX	769.3
+CanalX	109.98
+CanalX	395.4
+CanalX	10.6
+CanalX	301.76
+CanalX	189.97
+CanalX	117.72
+CanalX	115.22
+CanalX	80.64
+CanalX	814.05
+CanalX	270.6
+CanalX	484.65
+CanalX	206.44
+CanalX	115.6
+CanalX	404.04
+CanalY	591.78
+CanalY	260.05
+CanalY	417.68
+CanalY	96.48
+CanalY	209.4
+CanalY	468.74
+CanalY	112.75
+CanalY	28.92
+CanalY	169.96
+CanalY	343.9
+CanalY	638.73
+CanalY	330.5
+CanalY	339.08
+CanalY	237.16
+CanalZ	47.4
+CanalZ	496
+CanalZ	608.19
+CanalZ	457.75
+CanalZ	429.52
+CanalZ	487.8
+CanalZ	729.71
+CanalZ	96.1
+CanalZ	128.16
+CanalZ	253.68
+CanalZ	148.56
+CanalZ	464
+CanalZ	603.52
+CanalZ	329.6
+CanalZ	122.3
+CanalZ	70.38
+CanalZ	46.29
+CanalZ	704.25
+
+Cantidad de mayores al cambiar: 1

@@ -1,0 +1,2 @@
+Nos sirven para hacer una generalizacion de los datos.
+Tambien nos permite hacer una sobrecarga de funciones

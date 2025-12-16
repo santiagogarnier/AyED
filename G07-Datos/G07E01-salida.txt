@@ -1,0 +1,4 @@
+Listado de modelos con cantidad vendida:
+Corolla 481
+Cronos  299
+Vento   491

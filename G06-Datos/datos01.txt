@@ -1,0 +1,5 @@
+Datos de los seleccionados:
+{"Maria", 721, 8.4, "Pedro", 847, 7.2, "Ana", 614, 9.1, "Jose", 578, 8.9, "Juan", 927, 8.4, "Unai", 325, 8.1, "Ramon", 418, 8.4, "Elaia", 892, 9.6, "Carlos", 733, 8.5};
+
+Datos de las bajas:
+{"Pedro", 847, 7.2, "Ramon", 418, 8.4, "Unai", 325, 8.1};
